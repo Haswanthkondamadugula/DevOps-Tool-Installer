@@ -7,7 +7,7 @@ function Show-Header {
     Write-Host ""
     Write-Host "╔════════════════════════════════════════════════════════════════════════╗" -ForegroundColor Cyan
     Write-Host "║                                                                        ║" -ForegroundColor Cyan
-    Write-Host "║        🚀 DevOps Tool Installer by ProDevOpsGuy Tech 🚀                ║" -ForegroundColor Cyan
+    Write-Host "║        🚀 DevOps Tool Installer by DevOpsTech 🚀                ║" -ForegroundColor Cyan
     Write-Host "║                                                                        ║" -ForegroundColor Cyan
     Write-Host "╚════════════════════════════════════════════════════════════════════════╝" -ForegroundColor Cyan
     Write-Host ""
