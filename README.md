@@ -48,13 +48,13 @@ Easily **install and uninstall essential DevOps tools** on **Linux & Windows** w
 #### 📌 Windows (PowerShell):  
 
 ```powershell
-iwr -useb https://raw.githubusercontent.com/NotHarshhaa/DevOps-Tool-Installer/master/devops.ps1 | iex
+iwr -useb https://raw.githubusercontent.com/Haswanth/DevOps-Tool-Installer/master/devops.ps1 | iex
 ```
 
 #### 📌 Linux (Bash):  
 
 ```bash
-curl -s https://raw.githubusercontent.com/NotHarshhaa/DevOps-Tool-Installer/master/devops.sh | bash
+curl -s https://raw.githubusercontent.com/Haswanth/DevOps-Tool-Installer/master/devops.sh | bash
 ```
 
 🆕 These **combined launchers** (`devops.ps1` and `devops.sh`) automatically guide you to install or uninstall tools via an interactive prompt!
@@ -66,7 +66,7 @@ curl -s https://raw.githubusercontent.com/NotHarshhaa/DevOps-Tool-Installer/mast
 #### 📌 Linux  
 
 ```bash
-git clone https://github.com/NotHarshhaa/DevOps-Tool-Installer.git  
+git clone https://github.com/Haswanth/DevOps-Tool-Installer.git  
 cd DevOps-Tool-Installer  
 chmod +x devops.sh  
 ./devops.sh
@@ -75,7 +75,7 @@ chmod +x devops.sh
 #### 📌 Windows  
 
 ```powershell
-git clone https://github.com/NotHarshhaa/DevOps-Tool-Installer.git  
+git clone https://github.com/Haswanth/DevOps-Tool-Installer.git  
 cd DevOps-Tool-Installer  
 .\devops.ps1  
 ```
@@ -96,7 +96,7 @@ cd DevOps-Tool-Installer
 Use the universal launcher:  
 
 ```bash
-curl -s https://raw.githubusercontent.com/NotHarshhaa/DevOps-Tool-Installer/master/devops.sh | bash
+curl -s https://raw.githubusercontent.com/Haswanth/DevOps-Tool-Installer/master/devops.sh | bash
 ```
 
 ---
@@ -106,7 +106,7 @@ curl -s https://raw.githubusercontent.com/NotHarshhaa/DevOps-Tool-Installer/mast
 Use PowerShell launcher:  
 
 ```powershell
-iwr -useb https://raw.githubusercontent.com/NotHarshhaa/DevOps-Tool-Installer/master/devops.ps1 | iex
+iwr -useb https://raw.githubusercontent.com/Haswanth/DevOps-Tool-Installer/master/devops.ps1 | iex
 ```
 
 ---
@@ -163,15 +163,8 @@ Contributions are welcome!
 
 ## 🔗 Join the Community  
 
-💬 **Telegram:** [Join our group](https://t.me/prodevopsguy)  
-⭐ **GitHub:** [Follow me](https://github.com/NotHarshhaa)  
-📖 **Blog:** [ProDevOpsGuy](https://blog.prodevopsguy.xyz)  
-💼 **LinkedIn:** [Harshhaa Vardhan Reddy](https://www.linkedin.com/in/harshhaa-vardhan-reddy/)  
+💬 **Telegram:** [Join our group](https://t.me/DevOpsTechTeam)  
+⭐ **GitHub:** [Follow me](https://github.com/Haswanthkondamadugula)  
+📖 **Blog:** [DevOpsTech](https://hashnode.com/@Haswanth13)  
+💼 **LinkedIn:** [Haswanth Reddy](http://linkedin.com/in/haswanthkondamadugula)  
 
----
-
-## ⭐ Show Your Support  
-
-If this project saved you time, consider giving it a ⭐ on GitHub!  
-
-![Follow Me](https://imgur.com/2j7GSPs.png)  
