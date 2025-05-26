@@ -1,12 +1,12 @@
 # 🚀 DevOps Tool Installer & Uninstaller  
 
-![DevOps Tool Installer](https://imgur.com/QLlNazj.png)  
+![image](https://github.com/user-attachments/assets/227483dc-2f68-42c2-b456-30d306c06e45)
 
 Easily **install and uninstall essential DevOps tools** on **Linux & Windows** with a single script! Whether you're a **DevOps Engineer, Cloud Enthusiast, or System Administrator**, this toolkit automates setup and cleanup of your environment — saving time and effort.  
 
 ---
 
-![banner](https://imgur.com/5iUO7xf.png)
+![image](https://github.com/user-attachments/assets/979a078c-5bf9-4346-a6a3-8bb83497c631)
 
 ## 🔥 Why Use This?  
 
