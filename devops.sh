@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# devops.sh - DevOps Tool Manager by ProDevOpsGuy Tech
+# devops.sh - DevOps Tool Manager by DevOps Haswanth
 
 # Function: Clear and show banner
 show_banner() {
@@ -12,7 +12,7 @@ show_banner() {
     echo -e "║       \033[1;34mEffortlessly Manage Your DevOps Tools\033[0;36m                           ║"
     echo -e "║                                                                       ║"
     echo -e "╠═══════════════════════════════════════════════════════════════════════╣"
-    echo -e "║       \033[1;32mCreated by: ProDevOpsGuy Tech\033[0;36m                                   ║"
+    echo -e "║       \033[1;32mCreated by:DevOps Haswanth                              ║"
     echo -e "║       \033[1;33mVersion: 1.0.0\033[0;36m                                                  ║"
     echo -e "╚═══════════════════════════════════════════════════════════════════════╝\033[0m"
     echo ""
