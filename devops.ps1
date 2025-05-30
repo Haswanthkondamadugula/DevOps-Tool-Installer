@@ -1,12 +1,11 @@
-# devops.ps1 - DevOps Tool Manager by ProDevOpsGuy
+# devops.ps1 - DevOps Tool Manager by DevOps Haswanth
 
 function Show-Banner {
     Clear-Host
     Write-Host ""
     Write-Host "╔═══════════════════════════════════════════════════════════════════════╗" -ForegroundColor Cyan
     Write-Host "║                                                                       ║" -ForegroundColor Cyan
-    Write-Host "║       🚀 DevOps Tool Manager by ProDevOpsGuy Tech                     ║" -ForegroundColor Cyan
-    Write-Host "║                                                                       ║" -ForegroundColor Cyan
+    Write-Host "║       🚀 DevOps Tool Manager by DevOps Haswanth                        ║" -ForegroundColor Cyan
     Write-Host "╚═══════════════════════════════════════════════════════════════════════╝" -ForegroundColor Cyan
     Write-Host ""
 }
